@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_weight="0"
-            android:text="First Name"
+            android:text="What name"
             android:textSize="20sp" />
 
         <EditText
